@@ -13,6 +13,16 @@ const quizData = [
         question: "What is the largest mammal in the world?",
         options: ["Elephant", "Blue whale", "Giraffe"],
         correctAnswer: "Blue whale"
+    },
+    {
+        question: "What is the capital of Nigeria?",
+        options: ["Kano", "Abuja", "Lagos"],
+        correctAnswer: "Abuja"
+    },
+    {
+        question: "Which planet has the most moons?",
+        options: ["Saturn", "Earth", "Pluto"],
+        correctAnswer: "Saturn"
     }
 ];
 
